@@ -1,32 +1,7 @@
-.anuarios{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-wrap: wrap;
-  p{
-    color: $gray;
-    font-weight:  lighter;
-  }
-  div {
-    margin-bottom: 1em;
-  }
+#login{
+  max-width: 450px;
+  margin-top: 1.5em;
 }
-
-
-body > .container{
-  padding-top: 70px;
-}
-body > .jumbotron {
-  padding-top: 80px;
-}
-.cheesy-green{
-  background-color: $lightgreen;
-}
-
-.loggin-form{
-  margin-top: 4em; 
-}
-
-#logo-animado {
-    max-width: 300px;
+#anuarios-title{
+  margin-top: 1em;
 }

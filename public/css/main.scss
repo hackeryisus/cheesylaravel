@@ -1,9 +1,6 @@
-@import "_bootstrap.scss";
-@import "_bootstrap-compass.scss";
-@import "_bootstrap-mincer.scss";
-@import "_bootstrap-sprockets.scss";
+@import "framework/dist/semantic";
 
-
+/*
 //Colors
 $white:     #fff;
 $gray:      #737d86;
@@ -17,7 +14,8 @@ $lightgreen: #ecf6e9;
 $blue:   #3dc6f0;
 $purple: #65399a;
 $violet: #cd2789;
-
 @import "header.scss";
-@import "content.scss";
 @import "footer.scss";
+*/
+@import "header";
+@import "content.scss";
